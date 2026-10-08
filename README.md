@@ -68,7 +68,7 @@ Welcome to the ultimate curated directory of **high-performance compute file sto
 
 ## 🔓 Open-Source GitHub Projects 💻
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[MinIO](https://github.com/minio/minio)** [![Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers) ⚡  
   **High-performance Kubernetes-native object storage**, AGPL-3.0 licensed. **High throughput and S3 API compatibility** . **Widely integrated into high-speed HPC AI/ML data pipelines** . ⚡
@@ -123,7 +123,7 @@ Contributions are welcome! Follow these steps to submit new HPC file storage pla
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count badge, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
